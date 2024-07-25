@@ -23,7 +23,6 @@ const fetchTodos = async () => {
 // 할 일 항목 생성
 const createTodoItem = (todo) => {
   const $li = document.createElement("li");
-  $li.id = todo.id;
 
   const $label = document.createElement("label");
   $label.innerText = todo.todo;

@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "id": "b424",
-      "todo": "수정해봤어 안녕 ㅁㄴㅇㅁㄴㅇ",
-      "done": false
-    },
-    {
       "id": "d39b",
       "todo": "qwezxc",
       "done": false
@@ -23,11 +18,6 @@
     {
       "id": "90e8",
       "todo": "안녕",
-      "done": false
-    },
-    {
-      "id": "021d",
-      "todo": "qwez",
       "done": false
     }
   ]
